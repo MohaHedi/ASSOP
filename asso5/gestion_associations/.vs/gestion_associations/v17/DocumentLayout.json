@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|c:\\wamp64\\www\\assop\\asso5\\gestion_associations\\gestion_associations\\frmacceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmacceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmacceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmacceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmajouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmajouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmbureau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmbureau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmajouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmajouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmprofessionnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmprofessionnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmajouterpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmajouterpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmmodifierpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmmodifierpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmmodifierpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmmodifierpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}|gestion_associations\\gestion_associations.csproj|solutionrelative:gestion_associations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAjouter.cs [Design]",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmAjouter.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmAjouter.cs",
+              "ToolTip": "D:\\testProject\\asso5\\gestion_associations\\gestion_associations\\frmAjouter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmModifier.cs [Design]",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmModifier.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmModifier.cs",
+              "ToolTip": "D:\\testProject\\asso5\\gestion_associations\\gestion_associations\\frmModifier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmModifier.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmModifier.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmModifier.cs",
+              "ToolTip": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmModifier.cs",
+              "RelativeToolTip": "gestion_associations\\frmModifier.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAhwEUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAcceuil.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmAcceuil.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmAcceuil.cs",
+              "ToolTip": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmAcceuil.cs",
+              "RelativeToolTip": "gestion_associations\\frmAcceuil.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:38:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAcceuil.cs [Design]",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmAcceuil.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmAcceuil.cs",
+              "ToolTip": "D:\\testProject\\asso5\\gestion_associations\\gestion_associations\\frmAcceuil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmProfessionnel.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmProfessionnel.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmProfessionnel.cs",
+              "ToolTip": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmProfessionnel.cs",
+              "RelativeToolTip": "gestion_associations\\frmProfessionnel.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAgwKkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmModifierPro.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\FrmModifierPro.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\FrmModifierPro.cs",
+              "ToolTip": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\FrmModifierPro.cs",
+              "RelativeToolTip": "gestion_associations\\FrmModifierPro.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwDkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBureau.cs [Design]",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmBureau.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmBureau.cs",
+              "ToolTip": "D:\\testProject\\asso5\\gestion_associations\\gestion_associations\\frmBureau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAjouter.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmAjouter.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmAjouter.cs",
+              "ToolTip": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmAjouter.cs",
+              "RelativeToolTip": "gestion_associations\\frmAjouter.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\CRUD.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\CRUD.cs",
+              "ToolTip": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\CRUD.cs",
+              "RelativeToolTip": "gestion_associations\\CRUD.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:38:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmModifierPro.cs [Design]",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\FrmModifierPro.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\FrmModifierPro.cs",
+              "ToolTip": "D:\\testProject\\asso5\\gestion_associations\\gestion_associations\\FrmModifierPro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAjouterPro.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\FrmAjouterPro.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\FrmAjouterPro.cs",
+              "ToolTip": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\FrmAjouterPro.cs",
+              "RelativeToolTip": "gestion_associations\\FrmAjouterPro.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmConnexion.cs [Design]",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\frmConnexion.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\frmConnexion.cs",
+              "ToolTip": "D:\\testProject\\asso5\\gestion_associations\\gestion_associations\\frmConnexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T17:38:53.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\Program.cs",
+              "RelativeDocumentMoniker": "gestion_associations\\Program.cs",
+              "ToolTip": "C:\\wamp64\\www\\ASSOP\\asso5\\gestion_associations\\gestion_associations\\Program.cs",
+              "RelativeToolTip": "gestion_associations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:38:53.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43B7CA2F-5D12-4E16-ACF1-2630DF6A9607}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>gestion_associations</RootNamespace>
+    <AssemblyName>gestion_associations</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.33.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 8.0.33\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CRUD.cs" />
+    <Compile Include="Etudiant.cs" />
+    <Compile Include="frmAcceuil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcceuil.Designer.cs">
+      <DependentUpon>frmAcceuil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAjouterPro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAjouterPro.Designer.cs">
+      <DependentUpon>FrmAjouterPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBureau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBureau.Designer.cs">
+      <DependentUpon>frmBureau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConnexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConnexion.Designer.cs">
+      <DependentUpon>frmConnexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInscription.Designer.cs">
+      <DependentUpon>frmInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouter.Designer.cs">
+      <DependentUpon>frmAjouter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJury.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJury.Designer.cs">
+      <DependentUpon>frmJury.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifier.Designer.cs">
+      <DependentUpon>frmModifier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModifierPro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModifierPro.Designer.cs">
+      <DependentUpon>FrmModifierPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetitDejeuner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetitDejeuner.Designer.cs">
+      <DependentUpon>frmPetitDejeuner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPostBts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPostBts.Designer.cs">
+      <DependentUpon>frmPostBts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProfessionnel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProfessionnel.Designer.cs">
+      <DependentUpon>frmProfessionnel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPromo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPromo.Designer.cs">
+      <DependentUpon>frmPromo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupprimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupprimer.Designer.cs">
+      <DependentUpon>frmSupprimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Individu.cs" />
+    <Compile Include="Jury.cs" />
+    <Compile Include="PetitDejeuner.cs" />
+    <Compile Include="PostBts.cs" />
+    <Compile Include="Professionnel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAcceuil.resx">
+      <DependentUpon>frmAcceuil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAjouterPro.resx">
+      <DependentUpon>FrmAjouterPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBureau.resx">
+      <DependentUpon>frmBureau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConnexion.resx">
+      <DependentUpon>frmConnexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInscription.resx">
+      <DependentUpon>frmInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouter.resx">
+      <DependentUpon>frmAjouter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJury.resx">
+      <DependentUpon>frmJury.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifier.resx">
+      <DependentUpon>frmModifier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModifierPro.resx">
+      <DependentUpon>FrmModifierPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetitDejeuner.resx">
+      <DependentUpon>frmPetitDejeuner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPostBts.resx">
+      <DependentUpon>frmPostBts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProfessionnel.resx">
+      <DependentUpon>frmProfessionnel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPromo.resx">
+      <DependentUpon>frmPromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupprimer.resx">
+      <DependentUpon>frmSupprimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
